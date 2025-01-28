@@ -1,16 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 </head>
+
 <body>
-<pre>
+    <pre>
 
 <?php
-$cars = array("Volvo", "BMW", "parthi"); 
+$cars = array("Volvo", "BMW", "parthi");
 
 var_dump($cars);
 ?>
 
 </pre>
 </body>
+
 </html>
